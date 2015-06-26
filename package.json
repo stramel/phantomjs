@@ -6,5 +6,9 @@
     "headless",
     "webkit"
   ],
-  "main": "index.js"
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/just-boris/phantomjs.git"
+  }
 }
